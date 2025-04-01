@@ -2,7 +2,7 @@
   "name": "paginaweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nubecolectiva.com/proyecto/pagina_web_react_bootstrap4/",
+  "homepage": "/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
